@@ -1,2 +1,2 @@
-# Neighborhood-App-1- 
+# NihonGO
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
